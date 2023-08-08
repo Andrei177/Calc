@@ -1,0 +1,10 @@
+.wrapper{
+    padding-top: 50px;
+    text-align: center;
+}
+.result,
+.inp{
+    padding: 30px 45px;
+    border: 1px solid teal;
+    font-size: 18px;
+}
